@@ -1,4 +1,4 @@
 # Liuyel.github.io
 > Personal Blog  
-> his bro [git](github.com/Wuyiz)
+> his bro [git](www.github.com/Wuyiz)
 
